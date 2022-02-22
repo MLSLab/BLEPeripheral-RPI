@@ -1,6 +1,9 @@
 # BLEPeripheral-RPI
 Using a RaspberryPI as a BLE peripheral
 
+**Data Flow**<br>
+BLE Central → BLE peripheral → BLE Central 
+ 
 ## RaspberryPI Setting
 
 [Raspberry Pi OS](https://www.raspberrypi.com/software/operating-systems/)
