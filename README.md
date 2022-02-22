@@ -17,6 +17,9 @@ bluetoothctl
 [bluetooth]# advertise on
 [bluetooth]# discoverable on
 ```
+## GATT Server 동작 예시
+![SmartSelect_20220222-153349_Video Player](https://user-images.githubusercontent.com/32845598/155076104-d4e52578-4eba-4025-877c-626df848ade6.gif)
+
 
 ## GATT Server Log 예시
 ```
